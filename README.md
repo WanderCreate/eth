@@ -1,6 +1,12 @@
-# git-wiki-skeleton
+# Eth world creation wiki
 
-NOTE: it's fully supported by github platform, you don't need to install anything locally
+Work in progress of a secondary world wikipedia-style web database.
+
+
+
+
+
+//NOTE: it's fully supported by github platform, you don't need to install anything locally
 
 This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
 
